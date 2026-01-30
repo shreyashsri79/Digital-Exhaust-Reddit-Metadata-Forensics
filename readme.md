@@ -68,10 +68,10 @@ The Python script digests the raw data to find patterns.
 project/data-processor/analyzer.py
 
 ```
-### Step 3: Alternatively you can use
+### Alternatively you can 
 Run the zsh file:
 ```bash
-./run.zsh
+.project/run.zsh
 
 ```
 
