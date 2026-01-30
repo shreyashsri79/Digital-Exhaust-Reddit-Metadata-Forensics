@@ -1,0 +1,17 @@
+
+FORENSIC ANALYSIS REPORT
+========================
+Subject Data Points: 50
+Date Range: 2025-06-25 18:50:52 to 2026-01-27 23:00:17
+
+INFERENCE RESULTS
+-----------------
+Estimated Timezone: UTC -6:00 (Confidence: Medium)
+Calculated Offset: -6 hours from UTC
+Likely Region: US Central Time (Chicago, Mexico City)
+
+BEHAVIORAL STATS
+----------------
+Most Active Hour (UTC): 3:00
+Activity Ratio: 34.0% Weekend / 66.0% Weekday
+        
